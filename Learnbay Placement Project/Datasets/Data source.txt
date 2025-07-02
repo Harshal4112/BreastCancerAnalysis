@@ -1,0 +1,94 @@
+week_day=[1,2,3,4,5,6,7]
+temp=[50,51,52,48,47,49,46]
+
+Documentation 
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+
+days=[1,2,3,4,5,6,7] 
+max_t=[50,51,52,48,47,49,46] 
+min_t=[43,42,40,44,45,35,37] 
+avg_t=[45,48,48,46,40,42,41] 
+
+
+company=['GOOGL','AMZN','MSFT','FB']
+revenue=[90,136,89,27]
+
+
+blood_sugar = [113,85,90,150,149,88,93,115,135,80,77,82,129]
+
+
+
+blood_sugar_men = [113, 85, 90, 150, 149, 88, 93, 115, 135, 80, 77, 82, 129]
+blood_sugar_women = [67, 98, 89, 120, 133, 150, 84, 69, 89, 79, 120, 112, 100]
+
+
+
+exp_vals = [1400,600,300,410,250]
+exp_labels = ["Home Rent","Food","Phone/Internet Bill","Car ","Other Utilities"]
+
+year=[2014,2015,2016,2017]
+income=[4000,4500,5300,4600]
+
+expense=[2800,3000,2800,3400]
+
+
+https://github.com/mwaskom/seaborn-data
+
+
+
+
+emails = ['akzelxw@hotmail.com',
+'elum@gmail.com',
+'akbar.caakaterasu@gmail.com',
+'akarui.kibuno@gmail.com',
+'ajsparkchick@hotmail.com',
+'ajmeia@yahoo.com',
+'ajhnstn87@gmail.com',
+'ailuvzhoko4@hotmail.com',
+'ailuvzhoko3@hotmail.com',
+'ailuvzhoko2@hotmail.com',
+'ailuvzhoko@hotmail.com',
+'aillensiquioco@aol.com',
+'ahmovic_ines@hotmail.com',
+'ahmed_g300@yahoo.com',
+'ahmadjazlan@gmail.com',
+'ahmad_ridho19@yahoo.com']
+
+
+
+names='''Mr. Surendra
+Ms. Tina
+!@!@#@$#%
+Mrs_Sarah
+121354454
+Amit
+dbhfbdsihfadi
+Mr._Rajesh
+wt623t486t
+Mr Sarvesh
+Farhan
+Sam
+Peter
+K
+P
+M
+Mr T'''
+
+
+
+emails='''usman@gmail.com
+123_amit.com
+@#!$#@$%#@%
+xyz.com
+    earqewr
+asfddasfew
+amit_123@gmail.com
+dsafsdfdsFSDGGT
+12432546436
+info@gov.in
+@go.in
+abc.com
+mail@info.in
+shweta_analyst@hotmail.com
+rajesh_mba.123@yahoo.com
+'''
